@@ -1,19 +1,42 @@
 class Solution {
-    public int numSteps(String s) {
-        int N = s.length();
 
-        int sol = 0;
-        int carry = 0;
-        for(int i=N-1;i>0;i--){
-            int digit = s.charAt(i) -'0' + carry;
-            // System.out.println(s.charAt(i) - '0')
-            if(digit % 2 == 1){
-                carry = 1;
-                sol += 2;
-            }else
-                sol += 1;
+    private void divByTwo(StringBuilder s){
+        s.deleteCharAt(s.length() - 1);
+    }
+
+    private void addOne(StringBuilder s){
+
+        int i = s.length() - 1;
+
+        while(i >= 0 && s.charAt(i) != '0'){
+            s.setCharAt(i,'0');
+            i -= 1;
         }
 
-        return sol + carry;
+        if(i < 0)
+            s.insert(0,'1');
+        else
+            s.setCharAt(i,'1');
+
+    }
+
+    public int numSteps(String s) {
+        StringBuilder sb = new StringBuilder(s);
+
+        int sol = 0;
+
+        while(sb.length() > 1){
+
+            int N = sb.length();
+
+            if(sb.charAt(N - 1) == '0')
+                divByTwo(sb);
+            else
+                addOne(sb);
+
+            sol += 1;
+        }
+
+        return sol;
     }
 }
