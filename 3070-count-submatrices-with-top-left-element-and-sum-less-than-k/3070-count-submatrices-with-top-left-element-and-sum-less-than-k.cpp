@@ -7,39 +7,25 @@ public:
 
     vector<vector<int>> ps;
 
-    void prefixsum(int n,int m,vector<vector<int>> &nums){
+    int prefixsum(int n,int m,vector<vector<int>> &nums ,int k){
 
         ps.resize(n+1,vector<int>(m+1,0));
-
+        int ans = 0;
         for(int i=1;i<=n;i++){
             for(int j=1;j<=m;j++){
                 
                 ps[i][j] = ps[i-1][j] + ps[i][j-1] + nums[i-1][j-1] - ps[i-1][j-1];
-
+                ans += (ps[i][j] <= k);
             }
         }
 
+        return ans;
     }
 
     int countSubmatrices(vector<vector<int>>& grid, int k){
         int n = grid.size();
         int m = grid[0].size();
-        int cnt = 0;
 
-        prefixsum(n,m,grid);
-
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-
-                if( ps[i+1][j+1] <= k){
-                    cnt++;
-                }
-
-            }
-        }
-
-        return cnt;
-        
+        return prefixsum(n,m,grid,k);
     }
 };
