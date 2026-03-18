@@ -13,7 +13,6 @@ public:
         int ans = 0;
         for(int i=1;i<=n;i++){
             for(int j=1;j<=m;j++){
-                
                 ps[i][j] = ps[i-1][j] + ps[i][j-1] + nums[i-1][j-1] - ps[i-1][j-1];
                 ans += (ps[i][j] <= k);
             }
