@@ -9,19 +9,13 @@ public:
 
     void prefixsum(int n,int m,vector<vector<int>> &nums){
 
-        ps.resize(n,vector<int>(m));
+        ps.resize(n+1,vector<int>(m+1,0));
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(i==0 && j==0){
-                    ps[i][j] = nums[i][j];
-                }else if(i==0){
-                    ps[i][j] = ps[i][j-1] + nums[i][j];
-                }else if(j==0){
-                    ps[i][j] = ps[i-1][j] + nums[i][j];
-                }else{
-                    ps[i][j] = ps[i-1][j] + ps[i][j-1] + nums[i][j] - ps[i-1][j-1];
-                }
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                
+                ps[i][j] = ps[i-1][j] + ps[i][j-1] + nums[i-1][j-1] - ps[i-1][j-1];
+
             }
         }
 
@@ -38,7 +32,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
 
-                if( ps[i][j] <= k){
+                if( ps[i+1][j+1] <= k){
                     cnt++;
                 }
 
