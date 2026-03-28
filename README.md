@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Simulation
 |  |
 | ------- |
@@ -54,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Matrix
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Memoization
 |  |
 | ------- |
@@ -106,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
