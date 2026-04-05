@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2172-maximum-and-sum-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2172-maximum-and-sum-of-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
