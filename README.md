@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2172-maximum-and-sum-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2172-maximum-and-sum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Counting
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0134-gas-station) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Matrix
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Queue
 |  |
