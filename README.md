@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0874-walking-robot-simulation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0874-walking-robot-simulation) |
+| [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Hash Table
 |  |
