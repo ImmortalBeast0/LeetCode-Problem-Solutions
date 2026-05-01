@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0815-bus-routes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0815-bus-routes) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
 | [0879-profitable-schemes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0879-profitable-schemes) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -255,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
