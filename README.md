@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [0879-profitable-schemes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0879-profitable-schemes) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -258,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
