@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0120-triangle](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0120-triangle) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0815-bus-routes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0815-bus-routes) |
 | [0874-walking-robot-simulation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0874-walking-robot-simulation) |
 ## Tree
