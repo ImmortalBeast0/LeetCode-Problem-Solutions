@@ -12,8 +12,7 @@ public:
 
         int ans = 1e9;
         ans = min(ans,rec(i+1,j,tri)+tri[i][j]);
-        if(j+1 < tri[i+1].size())
-            ans = min(ans,rec(i+1,j+1,tri)+tri[i][j]);
+        ans = min(ans,rec(i+1,j+1,tri)+tri[i][j]);
 
         flag[i][j] = 1;
         return dp[i][j] = ans;
