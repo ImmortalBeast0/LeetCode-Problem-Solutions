@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3660-jump-game-ix) |
+| [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3660-jump-game-ix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3660-jump-game-ix) |
+| [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Memoization
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -301,10 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Number Theory
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Design
 |  |
 | ------- |
