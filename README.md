@@ -181,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3660-jump-game-ix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3660-jump-game-ix) |
 ## Memoization
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Enumeration
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
