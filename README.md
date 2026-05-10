@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## String
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Sliding Window
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0037-sudoku-solver) |
 | [0815-bus-routes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0815-bus-routes) |
 | [0874-walking-robot-simulation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0874-walking-robot-simulation) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Tree
 |  |
@@ -299,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Design
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
