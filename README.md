@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1345-jump-game-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1306-jump-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -300,12 +302,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0785-is-graph-bipartite](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Database
 |  |
