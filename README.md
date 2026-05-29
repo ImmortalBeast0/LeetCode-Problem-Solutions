@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3660-jump-game-ix) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Number Theory
