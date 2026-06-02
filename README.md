@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1871-jump-game-vii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1871-jump-game-vii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
