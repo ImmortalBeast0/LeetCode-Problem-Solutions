@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3660-jump-game-ix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Memoization
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Number Theory
 |  |
