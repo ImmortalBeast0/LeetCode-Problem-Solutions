@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Backtracking
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Math
 |  |
 | ------- |
