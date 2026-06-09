@@ -49,17 +49,10 @@ public:
         }
     }
 
-    pi rangeQuery(int l ,int r){
-        pi sol = {-1e18,1e18};
-        for(int i=K;i>=0;i--){
-            if(r - l + 1 >= (1 << i)){
-                sol = merge(sol,st[i][l]);
-                l += (1 << i);
-            }
-        }
-
-        return sol;
-    } 
+    pi rangeQuery(int l, int r){
+        int i = __lg(r - l + 1);
+        return merge(st[i][l], st[i][r - (1 << i) + 1]);
+    }
 
     ll maxTotalValue(vi& nums, int k) {
 
