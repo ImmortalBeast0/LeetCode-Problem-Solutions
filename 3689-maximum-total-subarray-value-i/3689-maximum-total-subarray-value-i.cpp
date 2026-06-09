@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long maxTotalValue(vector<int>& nums, long long k) {
+    long long maxTotalValue(vector<int>& nums,int k) {
         long long mx = nums[0];
         long long mn = nums[0];
         for(long long x : nums){
