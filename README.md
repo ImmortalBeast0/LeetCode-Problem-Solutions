@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0155-min-stack) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -427,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
