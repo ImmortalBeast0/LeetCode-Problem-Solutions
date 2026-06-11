@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
