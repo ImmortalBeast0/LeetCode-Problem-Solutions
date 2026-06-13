@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
+| [1302-deepest-leaves-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1345-jump-game-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1302-deepest-leaves-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0785-is-graph-bipartite](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1302-deepest-leaves-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1302-deepest-leaves-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
