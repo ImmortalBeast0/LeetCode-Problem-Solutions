@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -449,4 +451,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0155-min-stack) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
