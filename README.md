@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1833-maximum-ice-cream-bars](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0155-min-stack) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
