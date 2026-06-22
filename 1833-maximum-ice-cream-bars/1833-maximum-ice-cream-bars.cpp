@@ -1,44 +1,36 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define mod ((int)1e9+7)
-#define ll long long
-
-#define vi vector<int>
-#define vii vector<vi>
-#define pi pair<ll,ll>
-#define vpi vector<pi>
-
-#define F first
-#define S second
-#define pb push_back
-#define bp pop_back
-#define mp make_pair
-#define all(x) x.begin(),x.end()
-
 class Solution {
 public:
-    int maxIceCream(vector<int>& costs, int coins) {
-        int arr[(int)1e5+1];
-        memset(arr,0,sizeof(arr));
+    int maxIceCream(vector<int>& costs, int coins){
+
+        int mx = *max_element(costs.begin(),costs.end());
+
+        int count[mx+1];
+        memset(count,0,sizeof(count)); // 1 ,0 ,-1 
+
         for(int x : costs)
-            arr[x]++;
-        costs.clear();
-        for(int i=0;i<=1e5;i++){
-            for(int j=0;j<arr[i];j++)
-                costs.push_back(i);
-        }
-        int ans = 0;
-        int used = 0;
-        for(int x : costs){
-            cout << x << ' ';
-            if(used + x <= coins){
-                ans += 1;
-                used += x;
-            }else
-                break;
+            count[x] += 1;
+
+        for(int i=1;i<=mx;i++)
+            count[i] += count[i-1];
+
+        //in count[i] each value represent the last index of corresponding i 
+        vector<int> ans(costs.size());
+        for(int i=costs.size()-1;i>=0;i--){
+            int idx = count[costs[i]] - 1;
+            ans[idx] = costs[i];
+            count[costs[i]] -= 1;
         }
 
-        return ans;
-    }
+        int sol = 0;
+        int used = 0;
+
+        for(int x : ans){
+            if(x + used <= coins){
+                used += x;
+                sol += 1;
+            }
+        }
+
+        return sol;
+    }   
 };
