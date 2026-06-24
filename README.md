@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0815-bus-routes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0815-bus-routes) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0498-diagonal-traverse) |
 | [0874-walking-robot-simulation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
