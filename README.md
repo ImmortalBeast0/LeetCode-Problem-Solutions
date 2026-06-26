@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2172-maximum-and-sum-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2172-maximum-and-sum-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2172-maximum-and-sum-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2172-maximum-and-sum-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
