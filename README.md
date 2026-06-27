@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
