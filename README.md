@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Backtracking
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Memoization
 |  |
 | ------- |
