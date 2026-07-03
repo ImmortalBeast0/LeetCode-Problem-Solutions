@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2540-minimum-common-value](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Queue
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Database
 |  |
 | ------- |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
@@ -523,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
