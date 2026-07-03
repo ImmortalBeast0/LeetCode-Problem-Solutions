@@ -40,8 +40,8 @@ struct Trie{
                 root.push_back(node());
             }
             idx = root[idx].child[id];
+            root[idx].endVal += val;
         }
-        root[idx].endVal = val;
     }
 
     int dfs(int u){
@@ -65,19 +65,25 @@ struct Trie{
             idx = root[idx].child[id];
         }
 
-        return dfs(idx);
+        return root[idx].endVal;
     }
 };
 
 class MapSum {
 public:
+    unordered_map<string,int> mp;
     Trie trie;
     MapSum() {
         trie = Trie();
     }
     
     void insert(string key, int val) {
-        trie.insert(key,val);
+        int update = val;
+        if(mp.find(key) != mp.end()){
+            update -= mp[key];
+        }
+        trie.insert(key,update);
+        mp[key] = val;
     }
     
     int sum(string prefix) {
