@@ -1,36 +1,59 @@
+//                  Counting Sort
+#include<bits/stdc++.h>
+using namespace std;
+
+#define mod ((int)1e9+7)
+
+#define vi vector<int>
+#define vii vector<vi>
+#define pi pair<int,int>
+#define vpi vector<pi>
+
+#define F first
+#define S second
+#define pb push_back
+#define bp pop_back
+#define mp make_pair
+#define all(x) x.begin(),x.end()
+
 class Solution {
 public:
-    int maxIceCream(vector<int>& costs, int coins){
 
-        int mx = *max_element(costs.begin(),costs.end());
+    void countingSort(vector<int>& nums){
+        int n = nums.size();
 
-        int count[mx+1];
-        memset(count,0,sizeof(count)); // 1 ,0 ,-1 
+        int mx = *max_element(all(nums));
+        int freq[mx+1];
+        memset(freq,0,sizeof(freq));
 
-        for(int x : costs)
-            count[x] += 1;
+        for(int x : nums)   // O(N)
+            freq[x] += 1;
 
-        for(int i=1;i<=mx;i++)
-            count[i] += count[i-1];
+        for(int i=1;i<=mx;i++)      //O(Max(arr))
+            freq[i] += freq[i-1];
 
-        //in count[i] each value represent the last index of corresponding i 
-        vector<int> ans(costs.size());
-        for(int i=costs.size()-1;i>=0;i--){
-            int idx = count[costs[i]] - 1;
-            ans[idx] = costs[i];
-            count[costs[i]] -= 1;
+        vector<int> arr(n);
+        for(int i=n-1;i>=0;i--){
+            int idx = --freq[nums[i]];
+            arr[idx] = nums[i];
         }
 
-        int sol = 0;
-        int used = 0;
+        for(int i=0;i<n;i++)
+            nums[i] = arr[i];
+    }
 
-        for(int x : ans){
-            if(x + used <= coins){
-                used += x;
-                sol += 1;
-            }
+
+    int maxIceCream(vector<int>& costs, int coins) {
+        countingSort(costs);
+
+        int sol = 0;
+        for(int i=0;i<costs.size();i++){
+            if(coins < costs[i])
+                break;
+            coins -= costs[i];
+            sol += 1;
         }
 
         return sol;
-    }   
+    }
 };
