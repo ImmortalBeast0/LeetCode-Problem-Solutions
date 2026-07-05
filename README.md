@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1301-number-of-paths-with-max-score](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0879-profitable-schemes) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1301-number-of-paths-with-max-score](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
