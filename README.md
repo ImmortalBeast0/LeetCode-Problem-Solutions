@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1260-shift-2d-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1306-jump-game-iii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0498-diagonal-traverse) |
 | [0874-walking-robot-simulation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
