@@ -1,7 +1,6 @@
 class Solution {
 
     void reverseList(List<Integer> arr ,int st ,int en){
-
         while(st < en){
             int tmp = arr.get(st);
             arr.set(st,arr.get(en));
@@ -9,7 +8,6 @@ class Solution {
             st += 1;
             en -= 1;
         }
-
     }
 
     public List<List<Integer>> shiftGrid(int[][] grid, int k){
@@ -21,7 +19,6 @@ class Solution {
                 arr.add(x);
 
         k = k % (n * m);
-        
         reverseList(arr,0,arr.size()-1);
         reverseList(arr,0,k-1);
         reverseList(arr,k,arr.size()-1);
