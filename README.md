@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1291-sequential-digits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
