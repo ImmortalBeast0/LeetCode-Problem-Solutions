@@ -1,52 +1,26 @@
 class Solution {
-    public int maxActiveSectionsAfterTrade(String a){
-        char[] s = a.toCharArray();
-        int n = s.length;
-
-        int[] pre_one = new int[n];
+    public int maxActiveSectionsAfterTrade(String s) {
+        char[] arr = s.toCharArray();
+        int n = arr.length;
         int cnt = 0;
-        int[] pre = new int[n];
-        pre[0] = -1;
-        int idx = -1;
+        ArrayList<Integer> zero_blocks = new ArrayList<>();
+        int ones = 0;
         for(int i=0;i<n;i++){
-            pre[i] = idx;
-            pre_one[i] = cnt;
-            if(s[i] == '1'){
-                idx = i;
+            if(arr[i] == '0')
                 cnt += 1;
+            else{
+                ones += 1;
+                if(cnt > 0)
+                    zero_blocks.add(cnt);
+                cnt = 0;
             }
-            
         }
+        if(cnt > 0)
+            zero_blocks.add(cnt);
+        int zblock = 0;
+        for(int i=0;i<zero_blocks.size()-1;i++)
+            zblock = Math.max(zblock,zero_blocks.get(i)+zero_blocks.get(i+1));
 
-        int[] suf_one = new int[n];
-        cnt = 0;
-        int[] suf = new int[n];
-        suf[n-1] = n;
-        idx = n;
-        for(int i=n-1;i>=0;i--){
-            suf[i] = idx;
-            suf_one[i] = cnt;
-            if(s[i] == '1'){
-                idx = i;
-                cnt += 1;
-            }
-            
-        }
-
-        int sol = cnt;
-        idx = -1;
-        for(int i=0;i<n;i++){
-            if(idx != -1 && s[i] == '0' && i - idx >= 2) 
-                sol = Math.max(sol,suf[i] - pre[idx] - 1 + suf_one[i] + pre_one[idx]);
-
-            if(s[i] == '0')
-                idx = i;
-        }
-
-        // System.out.println(Arrays.toString(pre));
-        // System.out.println(Arrays.toString(suf));
-        // System.out.println(Arrays.toString(pre_one));
-        // System.out.println(Arrays.toString(suf_one));
-        return sol;
+        return ones + zblock;
     }
 }
