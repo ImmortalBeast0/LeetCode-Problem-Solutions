@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2172-maximum-and-sum-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2172-maximum-and-sum-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Array
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
