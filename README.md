@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Shortest Path
 |  |
 | ------- |
