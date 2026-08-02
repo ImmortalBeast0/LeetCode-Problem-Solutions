@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0436-find-right-interval) |
+| [0486-predict-the-winner](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0815-bus-routes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0815-bus-routes) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0788-rotated-digits) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -641,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
