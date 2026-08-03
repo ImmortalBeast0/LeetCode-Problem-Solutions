@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
