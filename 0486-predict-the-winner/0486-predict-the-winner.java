@@ -1,17 +1,40 @@
 class Solution {
-    int dp[][] = new int[20][20];
-    int rec(int i ,int j ,int[] nums){
-        if(i == j)
-            return nums[i];
-        if(dp[i][j] != -1)
+    public record Score(int a ,int b){};
+    Score [][]dp;
+    Score rec(int i ,int j ,boolean turn ,int[] nums){
+        if(i > j)
+            return new Score(0,0);
+
+        if(dp[i][j] != null)
             return dp[i][j];
-        int lt = nums[i] - rec(i+1,j,nums);
-        int rt = nums[j] - rec(i,j-1,nums);
-        return dp[i][j] = Math.max(lt,rt);
+
+        Score left = rec(i+1,j,!turn,nums);
+        Score right = rec(i,j-1,!turn,nums);
+        Score ans;
+        if(turn){
+            int pickLeft = nums[i] + left.a();
+            int pickRight = nums[j] + right.a();
+
+            if(pickLeft >= pickRight)
+                ans = new Score(pickLeft,left.b());
+            else
+                ans = new Score(pickRight,right.b());
+        }else{
+            int pickLeft = nums[i] + left.b();
+            int pickRight = nums[j] + right.b();
+
+            if(pickLeft >= pickRight)
+                ans = new Score(left.a(),pickLeft);
+            else
+                ans = new Score(right.a(),pickRight);
+        }
+
+        return dp[i][j] = ans;
     }
-    public boolean predictTheWinner(int[] nums){
-        for(int i=0;i<20;i++)
-        Arrays.fill(dp[i],-1);
-        return rec(0,nums.length-1,nums) >= 0;
+
+    public boolean predictTheWinner(int[] nums) {
+        dp = new Score[nums.length][nums.length];
+        Score sc = rec(0,nums.length-1,true,nums);
+        return sc.a >= sc.b;
     }
 }
