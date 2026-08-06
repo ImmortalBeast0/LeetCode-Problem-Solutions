@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0647-palindromic-substrings](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0647-palindromic-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1861-rotating-the-box) |
