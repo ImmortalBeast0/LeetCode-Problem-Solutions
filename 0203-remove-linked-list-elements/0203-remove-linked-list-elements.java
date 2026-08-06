@@ -15,9 +15,10 @@ class Solution {
         ListNode temp = dummy;
 
         while(temp != null){
-            while(temp.next != null && temp.next.val == val)
+            if(temp.next != null && temp.next.val == val)
                 temp.next = temp.next.next;
-            temp = temp.next;
+            else
+                temp = temp.next;
         }
 
         return dummy.next;
