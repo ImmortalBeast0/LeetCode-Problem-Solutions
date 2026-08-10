@@ -1,17 +1,25 @@
 class Solution {
+    boolean[] dp ,complete;
+    boolean rec(int i){
+        if(i == 0)
+            return false;
+
+        if(complete[i])
+            return dp[i];
+
+        for(int j=(int)Math.sqrt(i);i - j*j >= 0 && j!= 0;j--)
+            if(!rec(i - j*j)){
+                complete[i] = true;
+                return dp[i] = true;}
+
+        complete[i] = true;
+        return dp[i] = false;
+    }
+
+
     public boolean winnerSquareGame(int n) {
-        boolean[] dp = new boolean[n+1];
-        for(int i=0;i<n;i++){
-            if(!dp[i]){
-                for(int j=1;j*j+i<=n;j++){
-                    dp[i + j*j] = true;
-                }
-            }
-
-            if(dp[n])
-                return true;
-        }
-
-        return false;
+        dp = new boolean[n+1];
+        complete = new boolean[n+1];
+       return rec(n);
     }
 }
