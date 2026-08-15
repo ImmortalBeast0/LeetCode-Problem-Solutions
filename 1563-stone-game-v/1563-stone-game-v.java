@@ -59,6 +59,33 @@ class Solution {
         return dp[i][j] = ans;
     }
 
+    int iter(){
+        int[][] dp = new int[n+1][n+1];
+        for(int i=0;i<=n;i++){
+            for(int j=i;j<n;j++){
+                if(i == j)
+                    dp[i][j] = 0;
+                else{
+                    dp[i][j] = (int)-1e9;
+                    for(int k=i;k<j;k++){
+                        int lt = st.getRange(i,k);
+                        int rt = st.getRange(k+1,j);
+                        if(lt == rt){
+                            dp[i][j] = Math.max(dp[i][j],Math.max(dp[i][k] + lt,dp[k+1][j] + rt));
+                        }else{
+                            if(lt > rt)
+                                dp[i][j] = Math.max(dp[i][j],dp[k+1][j] + rt);
+                            else
+                                dp[i][j] = Math.max(dp[i][j],dp[i][k] + lt);
+                        }
+                    }
+                }
+            }
+        }
+
+        return dp[0][n-1];
+    }
+
     public int stoneGameV(int[] stoneValue) {
         st = new SparseTable();
         st.build(stoneValue);
