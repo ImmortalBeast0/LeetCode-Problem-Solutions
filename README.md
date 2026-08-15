@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1563-stone-game-v) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1510-stone-game-iv) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1563-stone-game-v](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1871-jump-game-vii) |
 | [2172-maximum-and-sum-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2172-maximum-and-sum-of-array) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
