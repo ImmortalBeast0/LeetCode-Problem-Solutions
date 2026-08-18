@@ -1,60 +1,57 @@
-class DSU{
-    HashMap<Integer,Integer> vis;
-    int mx;
-    int []par;
-    int []sz;
+class Solution {
+    public int longestConsecutive(int[] nums) {
+        HashSet<Integer> exist = new HashSet<>();
+        for(int x : nums)
+            exist.add(x);
 
-    int build(int[] nums){
-        mx = 1;
-        vis = new HashMap<>();
-        int n = nums.length;
-        par = new int[n];
-        sz = new int[n];
+        HashMap<Integer,Boolean> vis = new HashMap<>();
+        int n  = nums.length;
+        int cnt = 0; // xth Component explore 
+        int j = 0; //this is a pointer for arr 
+        int[] arr = new int[n];
+        Arrays.fill(arr,-1);
         for(int i=0;i<n;i++){
-            int x = nums[i];
-            vis.put(x,vis.getOrDefault(x,i));
-            par[i] = i;
-            sz[i] = 1;
+
+            if(!vis.containsKey(nums[i])){
+                // bfs 
+                
+                Deque<Integer> q = new ArrayDeque<>(); 
+                q.addFirst(nums[i]);
+                vis.put(nums[i],true);
+                arr[j++] = cnt;
+
+                while(q.size() > 0){
+                    int x = q.pollFirst();
+                    if(exist.contains(x + 1) && !vis.getOrDefault(x + 1,false)){
+                        q.addLast(x + 1);
+                        vis.put(x + 1,true);
+                        arr[j++] = cnt;
+                    }
+                    if(exist.contains(x - 1) && !vis.getOrDefault(x - 1,false)){
+                        q.addLast(x - 1);
+                        vis.put(x - 1,true);
+                        arr[j++] = cnt;
+                    }
+                }
+
+                cnt += 1;
+            }
+                
         }
-        for(int x : vis.keySet()){
-            if(vis.containsKey(x - 1))
-                union(vis.get(x),vis.get(x - 1));
+
+        int mx = 0;
+        int i = 0 ;j = 0;
+        System.out.println(Arrays.toString(arr));
+        for(;i<arr.length;){
+            if(arr[i] == -1)
+                break;
+            while(j < arr.length && arr[i] == arr[j]){
+                mx = Math.max(mx,j - i + 1);
+                j += 1;
+            }
+            i = j;
         }
 
         return mx;
-    }
-
-    int find(int i){
-        if(i == par[i])
-            return i;
-        return par[i] = find(par[i]);
-    }
-
-
-    boolean union(int i ,int j){
-        int pi = find(i);
-        int pj = find(j);
-        if(pi == pj)
-            return false;
-
-        if(sz[pi] < sz[pj]){
-            int t = pi;
-            pi = pj;
-            pj = t;
-        }
-
-        sz[pi] += sz[pj];
-        mx = Math.max(sz[pi],mx);
-        par[pj] = pi;
-        return true;
-    }
-}
-
-class Solution {
-    public int longestConsecutive(int[] nums){
-        if(nums.length == 0)
-            return 0;
-        DSU dsu = new DSU();
-        return dsu.build(nums);
     }
 }
