@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0560-subarray-sum-equals-k) |
