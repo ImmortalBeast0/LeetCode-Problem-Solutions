@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1563-stone-game-v) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0436-find-right-interval) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1631-path-with-minimum-effort](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1345-jump-game-iv) |
+| [1631-path-with-minimum-effort](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -566,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -726,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1510-stone-game-iv) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
