@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Backtracking
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Linked List
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Queue
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Memoization
 |  |
 | ------- |
