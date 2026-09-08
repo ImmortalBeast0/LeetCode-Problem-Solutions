@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0647-palindromic-substrings) |
 | [0677-map-sum-pairs](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0677-map-sum-pairs) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0392-is-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0647-palindromic-substrings) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
