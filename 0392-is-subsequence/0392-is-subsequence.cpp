@@ -4,8 +4,6 @@ public:
     int dp[100032][132];
     bool rec(int i,int j,string t,string s){
 
-        if(dp[i][j] != -1)
-            return dp[i][j];
         if(n == j){
             return true;
         }
