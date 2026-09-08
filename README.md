@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0039-combination-sum) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0151-reverse-words-in-a-string) |
