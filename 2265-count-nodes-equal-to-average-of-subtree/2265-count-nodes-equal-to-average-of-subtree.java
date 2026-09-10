@@ -1,33 +1,26 @@
 class Solution {
-
-    HashMap<TreeNode,Integer> subsz ,subsum;
     int sol = 0;
-
-    void dfs(TreeNode node){
+    int[] dfs(TreeNode node){
         if(node == null)
-            return ;
+            return new int[]{0,0};
 
-        subsz.put(node,1);
-        subsum.put(node,node.val);
-        if(node.left != null){
-            dfs(node.left);
-            subsz.put(node,subsz.get(node)+subsz.get(node.left));
-            subsum.put(node,subsum.get(node)+subsum.get(node.left));
-        }
-        if(node.right != null){
-            dfs(node.right);
-            subsz.put(node,subsz.get(node)+subsz.get(node.right));
-            subsum.put(node,subsum.get(node)+subsum.get(node.right));
-        }
+        int[] vals = {1,node.val};
+        
+        int[] tmp = dfs(node.left);
+        vals[0] += tmp[0];
+        vals[1] += tmp[1];
 
-        if(node.val == (int)Math.round(subsum.get(node)/subsz.get(node)))
+        tmp = dfs(node.right);
+        vals[0] += tmp[0];
+        vals[1] += tmp[1];
+        
+        if(vals[1] / vals[0] == node.val)
             sol += 1;
-
+        
+        return vals;
     }
 
     public int averageOfSubtree(TreeNode root){
-        subsz = new HashMap<>();
-        subsum = new HashMap<>();
         dfs(root);
         return sol;       
     }
