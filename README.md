@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-sum-of-beauty-in-the-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2172-maximum-and-sum-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2172-maximum-and-sum-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1291-sequential-digits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2405-optimal-partition-of-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
