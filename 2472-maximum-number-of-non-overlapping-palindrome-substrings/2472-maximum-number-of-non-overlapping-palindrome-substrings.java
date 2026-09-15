@@ -46,18 +46,29 @@ class Manacher{
 }
 
 class Solution {
+
+    boolean isPalindrome(int l ,int r ,char[] s){
+        while(l < r && s[l] == s[r]){l++;r--;}
+        return l >= r;
+    }
+
+
     Manacher m;
     int dp[];
-    int rec(int i ,int k){
+    int rec(int i ,int k ,char[] s){
         if(i < 0)
             return 0;
+
         if(dp[i] != -1)
             return dp[i];
+
         int ans = (int)-1e9;
-        ans = Math.max(ans,rec(i-1,k));
+
+        ans = Math.max(ans,rec(i-1,k,s));
+
         for(int j=0;j<=i;j++){
-            if(i - j + 1 >= k && m.isPalindrome(j,i))
-                ans = Math.max(ans,rec(j-1,k)+1);
+            if(i - j + 1 >= k && isPalindrome(j,i,s))
+                ans = Math.max(ans,rec(j-1,k,s)+1);
         }
 
         return dp[i] = ans;
@@ -67,6 +78,7 @@ class Solution {
         m = new Manacher(s);
         dp = new int[s.length()+1];
         Arrays.fill(dp,-1);
-        return rec(s.length()-1,k);
+        char[] str = s.toCharArray();
+        return rec(s.length()-1,k,str);
     }
 }
