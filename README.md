@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2405-optimal-partition-of-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2405-optimal-partition-of-string) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2405-optimal-partition-of-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2405-optimal-partition-of-string) |
