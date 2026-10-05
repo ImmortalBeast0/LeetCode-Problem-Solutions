@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0647-palindromic-substrings) |
 | [0677-map-sum-pairs](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0677-map-sum-pairs) |
+| [0856-score-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
