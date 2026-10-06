@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0677-map-sum-pairs) |
 | [0856-score-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0856-score-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
