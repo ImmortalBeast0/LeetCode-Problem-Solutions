@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0210-course-schedule-ii) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
