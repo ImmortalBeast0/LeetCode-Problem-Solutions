@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1302-deepest-leaves-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1302-deepest-leaves-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
