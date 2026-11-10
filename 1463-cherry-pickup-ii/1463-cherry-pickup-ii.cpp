@@ -1,61 +1,35 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define mod ((int)1e9+7)
-#define ll long long
-
-#define vi vector<int>
-#define vii vector<vi>
-#define pi pair<int,int>
-#define vpi vector<pi>
-
-#define pb push_back
-#define bp pop_back
-
-#define F first
-#define S second 
-
-#define all(x) x.begin(),x.end()
-#define sz(x) (int)x.size()
-
 class Solution {
 public:
     int m ,n;
+    int dp[77][77][77];
+    int rec(int i ,int j1 ,int j2 ,vector<vector<int>>& g){
 
-    int dp[70][70][70];
-
-    int rec(int i ,int j ,int k ,vii& g){
-        if (i >= m)
+        if(i >= m)
             return 0;
-
-        if (j >= n || j < 0 || k >= n || k < 0)
+        if(j1 < 0 || j2 < 0 || j1 >= n || j2 >= n)
             return -1e9;
-
-        if (dp[i][j][k] != -1)
-            return dp[i][j][k];
-
+        if(dp[i][j1][j2] != -1)
+            return dp[i][j1][j2];
         int ans = -1e9;
-        int v1 = g[i][j], v2 = g[i][k];
-        if (j == k)
-            v2 = 0;
+        int tot = 0;
+        if(j1 == j2)
+            tot += g[i][j1];
+        else
+            tot += g[i][j1] + g[i][j2];
 
-        ans = max(ans, rec(i + 1, j, k, g) + v1 + v2);
-        ans = max(ans, rec(i + 1, j, k + 1, g) + v1 + v2);
-        ans = max(ans, rec(i + 1, j, k - 1, g) + v1 + v2);
-        ans = max(ans, rec(i + 1, j + 1, k, g) + v1 + v2);
-        ans = max(ans, rec(i + 1, j + 1, k + 1, g) + v1 + v2);
-        ans = max(ans, rec(i + 1, j + 1, k - 1, g) + v1 + v2);
-        ans = max(ans, rec(i + 1, j - 1, k, g) + v1 + v2);
-        ans = max(ans, rec(i + 1, j - 1, k + 1, g) + v1 + v2);
-        ans = max(ans, rec(i + 1, j - 1, k - 1, g) + v1 + v2);
+        for(int t=-1;t<2;t++){
+            ans = max(ans,rec(i+1,j1-1,j2+t,g));
+            ans = max(ans,rec(i+1,j1,j2+t,g));
+            ans = max(ans,rec(i+1,j1+1,j2+t,g));
+        }
 
-        return dp[i][j][k] = ans;
+        return dp[i][j1][j2] = ans + tot;
     }
 
-    int cherryPickup(vector<vector<int>>& grid) {
-        m = grid.size();
-        n = grid[0].size();
+    int cherryPickup(vector<vector<int>>& g) {
+        m = g.size();
+        n = g[0].size();
         memset(dp,-1,sizeof(dp));
-        return rec(0,0,n-1,grid);
+        return rec(0,0,n-1,g);
     }
 };
