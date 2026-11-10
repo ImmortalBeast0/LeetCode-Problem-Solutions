@@ -1,68 +1,51 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define mod ((int)1e9+7)
-#define ll long long
-
-#define vi vector<int>
-#define vii vector<vi>
-#define pi pair<int,int>
-#define vpi vector<pi>
-
-#define pb push_back
-#define bp pop_back
-
-#define F first
-#define S second 
-
-#define all(x) x.begin(),x.end()
-#define sz(x) (int)x.size()
 class Solution {
 public:
-    int m ,n;
-    int dx[4] = {-1,0,1,0};
-    int dy[4] = {0,1,0,-1};
+    int orangesRotting(vector<vector<int>>& g) {
+        int m = g.size();
+        int n = g[0].size();
 
-    bool check(int i ,int j){
-        return i >= 0 && i < m && j >= 0 && j < n;
-    }
-
-    int orangesRotting(vii& g){
-
-        m = g.size() ,n = g[0].size();
-
-        queue<pi> q;
-
-        for(int i=0;i<m;i++)
-            for(int j=0;j<n;j++)
+        queue<pair<int,int>> q;
+        int dx[4] = {-1,0,1,0};
+        int dy[4] = {0,1,0,-1};
+        int cnt = 0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(g[i][j] == 2)
-                    q.push({i, j});
-        
-        int d = 0;
+                    q.push({i,j});
+                if(g[i][j] == 1)
+                    cnt += 1;
+            }
+        }
+
+        if(q.size() == 0){
+            if(cnt)
+                return -1;
+            return 0;
+        }
+
+        int mins = 0;
         while(!q.empty()){
-            bool flag = false;
             int sz = q.size();
             while(sz--){
-                pi u = q.front();
+                int i = q.front().first;
+                int j = q.front().second;
                 q.pop();
-                for(int i=0;i<4;i++){
-                    int ni = dx[i] + u.F;
-                    int nj = dy[i] + u.S;
-                    if(check(ni,nj) && g[ni][nj] == 1){
+                for(int d=0;d<4;d++){
+                    int ni = i + dx[d];
+                    int nj = j + dy[d];
+                    if(ni >= 0 && nj >= 0 && ni < m && nj < n && g[ni][nj] == 1){
+                        cnt -= 1;
                         g[ni][nj] = 2;
                         q.push({ni,nj});
-                        flag = true;
                     }
                 }
             }
-            d += flag;
+            mins += 1;
         }
-        
-        for(int i=0;i<m;i++)
-            for(int j=0;j<n;j++)
-                if(g[i][j] == 1)
-                    return -1;
 
-        return d;
+        if(cnt)
+            return -1;
+
+        return mins - 1;
     }
 };
