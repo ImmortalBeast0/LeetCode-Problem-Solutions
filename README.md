@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
