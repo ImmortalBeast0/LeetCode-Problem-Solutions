@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
