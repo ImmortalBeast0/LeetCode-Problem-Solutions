@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0879-profitable-schemes) |
 | [1140-stone-game-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -860,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
