@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0498-diagonal-traverse) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0436-find-right-interval) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
