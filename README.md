@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0056-merge-intervals) |
 | [0436-find-right-interval](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0436-find-right-interval) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0140-word-break-ii) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0140-word-break-ii) |
