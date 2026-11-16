@@ -9,7 +9,7 @@ class Solution {
             for (int i = 0; i < N; i++) {
                 left[i] = i+1;
                 while (!stack.isEmpty() && (nums[stack.peek()]&nums[i]) == nums[i] 
-                && nums[stack.peek()] > nums[i]) {
+                ) {
                     stack.pop();
                 }
                 if (!stack.isEmpty())
@@ -21,7 +21,7 @@ class Solution {
             Stack<Integer> stack = new Stack<>();
             for (int i = N - 1; i >= 0; i--) {
                 right[i] = N - i;
-                while (!stack.isEmpty() && (nums[stack.peek()]&nums[i]) == nums[i] && nums[stack.peek()] >= nums[i]) {
+                while (!stack.isEmpty() && (nums[stack.peek()]&nums[i]) == nums[i] && nums[stack.peek()] > nums[i]) {
                     stack.pop();
                 }
                 if (!stack.isEmpty())
