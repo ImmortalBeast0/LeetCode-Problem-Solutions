@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3878-count-good-subarrays](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3878-count-good-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3850-count-sequences-to-k](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3850-count-sequences-to-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3878-count-good-subarrays](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3878-count-good-subarrays) |
 | [3904-smallest-stable-index-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3878-count-good-subarrays](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3878-count-good-subarrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0901-online-stock-span](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3878-count-good-subarrays](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/3878-count-good-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
