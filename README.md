@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1510-stone-game-iv) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1563-stone-game-v](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ImmortalBeast0/LeetCode-Problem-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
